@@ -1,5 +1,5 @@
-#Creating a script to help run point scale simulation using the docker version of CLM5 escomp/cesm-lab-neon
-This Jupyter Notebook contains step by step guide on how to run a simple community land model (CLM) point scale simulation at NEON sites, modify parameters and create jobs.
+# Creating a script to help run point scale simulation using the docker version of CLM5 escomp/cesm-lab-neon and results visualization
+This Jupyter Notebook contains step by step guide on how to run a simple community land model (CLM) point scale simulation at NEON sites, modify parameters and create jobs as well as visualizing the results.
 
 ## Getting Started
 To use this notebook, You must have docker installed.
