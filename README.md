@@ -21,7 +21,13 @@ jupyter notebook neon_rs.ipynb
 
 ## Prerequisites
 This notebook requires the following Python libraries:
-
+- numpy
+- pandas
+- xarray
+- glob
+- matplotlib
+- stats
+- neon_utils
 - netCDF4
 
 ## Usage
